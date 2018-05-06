@@ -75,4 +75,4 @@ This dataset is licensed under a [Creative Commons Attribution-ShareAlike 4.0 In
 
 ### Contact
 
-* Max Glockner: {first}{last}@gmx.de
+* Max Glockner: max g 216 @ googlemail . com
