@@ -72,7 +72,3 @@ If you use this dataset in any published research, please cite:
 ### License
 
 This dataset is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
-
-### Contact
-
-* Max Glockner: max g 216 @ googlemail . com
